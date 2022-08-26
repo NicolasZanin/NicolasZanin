@@ -1,5 +1,5 @@
 <h1 align="center">I'm Nicolas ZANIN</h1>
-<h2 align="center">📖 I'm a student in my first year of engineering cycle at Polytech Nice Sophia Antipolis</h2>
+<h2 align="center">📖 A student in my first year of engineering cycle at Polytech Nice Sophia Antipolis</h2>
 <div>
 <h2>About me:</h2>
 
