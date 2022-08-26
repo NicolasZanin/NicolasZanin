@@ -9,3 +9,6 @@
 - 📫 How to reach me: nicolas.z06@free.fr
 - 😄 Pronouns: Curiosity and rigorous
 </div>
+<div>
+<h2>Tools:</h2> 
+ - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWJd00KbzT_QzJSpAp9spPRIR-Bzezi7fA2baiS5Qhw&s"></img> Visual Studio Code
