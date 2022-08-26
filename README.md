@@ -16,10 +16,10 @@
 </div>
 <div>
  <h3>Languages:</h3>
- - <a href=""><img src="https://www.humancoders.com/formations/langage-c" alt="Logo Language C" width="20px" height="20px"></img></a> C
- - <a href="https://www.python.org/"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Logo Language Python" width="20px" height="20px"></img></a> Python
- - <a href="https://www.w3schools.com/html/"><img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" alt="Logo Language HTML" width="20px" height="20px"></img></a> HTML
- - <a href="https://www.w3schools.com/css/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Logo Language CSS" width="20px" height="20px"></img></a> CSS
- - <a href="https://www.w3schools.com/js/"><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png" alt="Logo Language JavaScript" width="20px" height="20px"></img></a> JavaScript
- - <a href="https://www.php.net/"><img src="https://cdn.alsacreations.net/xmedia/doc/full/php-logo.png" alt="Logo Language PHP" width="20px" height="20px"></img></a> PHP
- - <a href="https://sqlitebrowser.org/"><img src="https://findicons.com/files/icons/725/colobrush/256/database.png" alt="Logo Language DataBase" width="20px" height="20px"></img></a> SQLite
+ <p>- <a href=""><img src="https://www.humancoders.com/formations/langage-c" alt="Logo Language C" width="20px" height="20px"></img></a> C</p>
+ <p>- <a href="https://www.python.org/"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Logo Language Python" width="20px" height="20px"></img></a> Python</p>
+ <p>- <a href="https://www.w3schools.com/html/"><img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" alt="Logo Language HTML" width="20px" height="20px"></img></a> HTML</p>
+ <p>- <a href="https://www.w3schools.com/css/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Logo Language CSS" width="20px" height="20px"></img></a> CSS</p>
+ <p>- <a href="https://www.w3schools.com/js/"><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png" alt="Logo Language JavaScript" width="20px" height="20px"></img></a> JavaScript</p>
+ <p>- <a href="https://www.php.net/"><img src="https://cdn.alsacreations.net/xmedia/doc/full/php-logo.png" alt="Logo Language PHP" width="20px" height="20px"></img></a> PHP</p>
+ <p>- <a href="https://sqlitebrowser.org/"><img src="https://findicons.com/files/icons/725/colobrush/256/database.png" alt="Logo Language DataBase" width="20px" height="20px"></img></a> SQLite</p>
