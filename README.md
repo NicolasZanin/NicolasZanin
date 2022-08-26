@@ -1,4 +1,4 @@
-<h1 text-align:center>I'm Nicolas ZANIN</h1>
+<h1 text-align="center">I'm Nicolas ZANIN</h1>
 
 Here are some ideas to get you started:
 About me:
