@@ -11,4 +11,4 @@
 </div>
 <div>
 <h2>Tools:</h2> 
- - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWJd00KbzT_QzJSpAp9spPRIR-Bzezi7fA2baiS5Qhw&s" width="10px" height="10px"></img> Visual Studio Code
+ - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWJd00KbzT_QzJSpAp9spPRIR-Bzezi7fA2baiS5Qhw&s" width="20px" height="20px"></img> Visual Studio Code
