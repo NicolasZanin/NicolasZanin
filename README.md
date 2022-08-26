@@ -1,5 +1,5 @@
 <h1 align="center">I'm Nicolas ZANIN</h1>
-<h2 align="center">📖 A student in my first year of engineering cycle at Polytech Nice Sophia Antipolis</h2>
+<h2 align="center">📖 A student in my first year of engineering cycle at <a href="https://polytech.univ-cotedazur.fr/">Polytech Nice Sophia Antipolis</a></h2>
 <div>
 <h3>About me:</h3>
 
@@ -16,7 +16,7 @@
 </div>
 <div>
  <h3>Languages:</h3>
- <p>- <img src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" alt="Logo Language C" width="20px" height="20px"></img> C</p>
+ <p>- <a href="https://www.cprogramming.com/"><img src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" alt="Logo Language C" width="20px" height="20px"></img></a> C</p>
  <p>- <a href="https://www.python.org/"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Logo Language Python" width="20px" height="20px"></img></a> Python</p>
  <p>- <a href="https://www.w3schools.com/html/"><img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" alt="Logo Language HTML" width="20px" height="20px"></img></a> HTML</p>
  <p>- <a href="https://www.w3schools.com/css/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Logo Language CSS" width="20px" height="20px"></img></a> CSS</p>
