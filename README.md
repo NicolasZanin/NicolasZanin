@@ -24,4 +24,4 @@
  <p>- <a href="https://www.w3schools.com/js/"><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png" alt="Logo Language JavaScript" width="20px" height="20px"></img></a> JavaScript</p>
  <p>- <a href="https://www.php.net/"><img src="https://cdn.alsacreations.net/xmedia/doc/full/php-logo.png" alt="Logo Language PHP" width="20px" height="20px"></img></a> PHP</p>
  <p>- <a href="https://sqlitebrowser.org/"><img src="https://findicons.com/files/icons/725/colobrush/256/database.png" alt="Logo Language DataBase" width="20px" height="20px"></img></a> SQLite</p>
- <p>- <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWU2hdMYdyWmv2xG32DbUPG1HRKRApNcP9Q&usqp=CAU"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWU2hdMYdyWmv2xG32DbUPG1HRKRApNcP9Q&usqp=CAU" alt="Logo Language Java" width="20px" height="20px"></img></a> Java</p>
+ <p>- <a href="https://www.java.com/fr/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWU2hdMYdyWmv2xG32DbUPG1HRKRApNcP9Q&usqp=CAU" alt="Logo Language Java" width="20px" height="20px"></img></a> Java</p>
