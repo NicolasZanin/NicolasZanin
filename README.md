@@ -1,5 +1,5 @@
 <h1 align="center">I'm Nicolas ZANIN</h1>
-<h2 align="center">📖 A student in my first year of engineering cycle at <a href="https://polytech.univ-cotedazur.fr/">Polytech Nice Sophia Antipolis</a></h2>
+<h2 align="center">📖 A student in my second year of engineering cycle at <a href="https://polytech.univ-cotedazur.fr/">Polytech Nice Sophia Antipolis</a></h2>
 <div>
 <h3>About me:</h3>
 
